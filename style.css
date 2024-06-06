@@ -1,8 +1,30 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 body{
-    background-color: rgb(93, 87, 87)
+    background-color: rgb(240, 234, 234);
+}
+
+body h1 {
+    text-align: center;
+}
+body nav {
+    text-align: center;
+}
+
+h2{
+    margin-left: 50px;
+}
+
+ol{
+    margin-left: 50px;
+}
+
+ol li {
+    font-weight: bold;
+}
+
+ul li {
+    font-weight: normal;
+}
+
+li{
+    margin-bottom: 10px;
 }
